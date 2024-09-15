@@ -27,4 +27,7 @@ Para executar este projeto, siga os passos abaixo:
 3. Execute o arquivo main.py utilizando Python:
   python main.py
 
+## Como testar caso esteja no segundo desafio: 
+Remova as aspas triplas que tornam o trecho final um trecho comentado e realize os testes que achar necessário. 
+
 
